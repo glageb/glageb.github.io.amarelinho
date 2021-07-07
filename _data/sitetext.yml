@@ -11,23 +11,23 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
-    buttonlink: "#services"
+    title: Welcome to my webpage!
+    #text: It's Nice To Meet You
+    #button: Tell Me More
+    #buttonlink: "#services"
 
-  services:
-    title: "Services"
-    text: "Lorem ipsum"
-    section: services
+  highlights:
+    title: "Three Highlights"
+    text: "This is where I strive and what I love"
+    section: highlights
     list:
-      - title: "E-Commerce"
+      - title: "Computer Scientist"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
+      - title: "Leadership in Software Industry"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+      - title: "New Work Methods"
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
 
@@ -38,30 +38,30 @@ en: &DEFAULT_EN
     closebutton: "Close Project"
 
   timeline:
-    title: "About"
-    text: "Lorem ipsum timeline"
+    title: "My Timeline"
+    text: "How I Evolved Along the Way"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "A New Place: The Biggest Learnings Ever"
+        year: "2018-2021: Project Expert, SAP Canada"
+        desc: "Moved to Canada in 2018 with wife and three kids. Deep dive in another country, culture and work market."
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Substantial Leadership Experience"
+        year: "2010-2018: Development Manager, SAP Brazil"
+        desc: ""
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "SAP Career Begins"
+        year: "2006-2010: Developer/Architect, SAP Brazil"
+        desc: "Deep dive in the world of specific development projects for global SAP customers, in several countries."
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+      - title: "Startuper"
+        year: "2001-2005"
+        desc: "Developed a company from the ground up. Coded and delivered casual games for US market."
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
