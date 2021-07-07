@@ -65,8 +65,15 @@ en: &DEFAULT_EN
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
+        #align: right
+      - title: "Computer Scientist"
+        year: "2000"
+        desc: "Graduated in Computer Science in Brazil."
+        image: assets/img/timeline/4.jpg
+        alt:
+        # you can enforce the alignment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: "Born <br> in the South <br> of Brazil!"
 
   about:
     title: "About Us"
