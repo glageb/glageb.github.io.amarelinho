@@ -13,13 +13,13 @@ en: &DEFAULT_EN
   nav:
     - title: "Highlights"
       section: services
-    - title: "Portfolio"
-      section: portfolio
     - title: "Timeline"
       section: timeline
-    - title: "About"
-      section: about
-    - title: "Team"
+    - title: "Achievements"
+      section: portfolio
+    #- title: "About"
+    #  section: about
+    - title: "Publications"
       section: team
     - title: "Contact"
       section: contact

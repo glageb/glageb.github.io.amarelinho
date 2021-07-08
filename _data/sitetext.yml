@@ -17,7 +17,7 @@ en: &DEFAULT_EN
     #buttonlink: "#highlights"
 
   services:
-    title: "Three Highlights"
+    title: "Highlights"
     text: "What I love & where I strive"
     section: services
     list:
@@ -33,12 +33,6 @@ en: &DEFAULT_EN
       #- title: "Writer"
       #  desc: "Published and translated books."
       #  icon: fas fa-pen
-
-  portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    section: portfolio
-    closebutton: "Close Project"
 
   timeline:
     title: "My Timeline"
@@ -78,10 +72,16 @@ en: &DEFAULT_EN
         #align: right
     end: "Born <br> in the South <br> of Brazil!"
 
-  about:
-    title: "About Us"
-    text: "our story"
-    section: about
+    portfolio:
+    title: "Achievements"
+    text: "What I'm proud of."
+    section: portfolio
+    closebutton: "Close"
+  
+  #about:
+   # title: "About Us"
+   # text: "our story"
+   # section: about
 
   clients:
     section: clients
