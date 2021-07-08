@@ -36,8 +36,8 @@ en-AU:
 # -------
 es: &DEFAULT_ES
   nav:
-    - title: "Servicios"
-      section: servicios
+    - title: "Highlights"
+      section: highlights
     - title: "Portafolio"
       section: portafolio
     - title: "Cronología"
