@@ -181,7 +181,7 @@ es: &DEFAULT_ES
     button: Ver más
     buttonlink: "#servicios"
 
-  services:
+  highlights:
     title: "Servicios"
     text: "Lorem ipsum"
     section: servicios
