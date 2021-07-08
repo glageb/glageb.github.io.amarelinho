@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to my webpage (in construction)!
-    text: BS Computer Science, IT Industry Expert
+    title: BS Computer Science, IT Industry Expert
+    text: Guilherme Lage Bertschinger
     #button: Tell Me More
     #buttonlink: "#highlights"
 
