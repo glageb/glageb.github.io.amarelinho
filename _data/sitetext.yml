@@ -18,21 +18,21 @@ en: &DEFAULT_EN
 
   services:
     title: "Three Highlights"
-    text: "This is where I strive and what I love"
+    text: "What I love & where I strive"
     section: services
     list:
       - title: "Computer Scientist"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "20+ years of experience progressing from Consulting, Game Development, Embedded Systems and Enterprise Software Development."
         icon: fas fa-laptop #find more at https://fontawesome.com/icons
-      - title: "Leadership in Software Industry"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Leadership in IT"
+        desc: "10+ years leadership experience in Enterprise Software Development."
         icon: far fa-rocket
       - title: "New Work Methods"
         desc: "Experience in applying methods of progressing organizations to help change the way we work."
         icon: fas fa-magic
-      - title: "Writer"
-        desc: "Published and translated books."
-        icon: fas fa-pen
+      #- title: "Writer"
+      #  desc: "Published and translated books."
+      #  icon: fas fa-pen
 
   portfolio:
     title: "Portfolio"
@@ -102,44 +102,38 @@ en: &DEFAULT_EN
         logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    title: "PUBLICATIONS"
+    text: "A few publications I left to the world, so far."
+    subtext: From games to books :)
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
+      - name: "Nology Games"
+        role: "Six PC games published in early 2000's from my former game startup."
         image: assets/img/team/500x500.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
+          - url: https://sites.google.com/site/nologygames
+            icon: fas fa-external-link-square-alt
+      - name: "Book about Game Development"
+        role: "'Desenvolvimento de Jogos Eletronicos' sold 3000+ copies in Brazil."
         image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
+            icon: fas fa-book
+      - name: "Reinventando as Organizações"
+        role: "Translator of the crowd-funded-sourced initiative to publish 'Reinventing Organizations' book in Brazil."
         image: assets/img/team/500x500.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+          - url: https://editoravoo.com.br/produto/reinventando-as-organizacoes
+            icon: fas fa-book
+      - name: "How Sitting Next to You Affects my Feedback"
+        role: "My view on how to give feedback as a gift."
+        image: assets/img/team/500x500.jpg
+        social:
+          - url: https://blogs.sap.com/2018/12/12/coachs-corner-how-sitting-next-to-you-affects-my-feedback
+            icon: far fa-comments
 
   contact:
-    title: "Contact Us"
+    title: "Contact Me"
     text: "Lorem ipsum or call 123456789"
     section: contact
     name: "Name*"
@@ -156,16 +150,16 @@ en: &DEFAULT_EN
   footer:
     legal: "Privacy Policy"
     social:
-      - url: https://twitter.com
-        icon: "fab fa-twitter"
-      - url: https://facebook.com
-        icon: "fab fa-facebook-f"
+      #- url: https://twitter.com
+      #  icon: "fab fa-twitter"
+      #- url: https://facebook.com
+      #  icon: "fab fa-facebook-f"
       - url: https://linkedin.com
         icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
+      - url: https://github.com/glageb
         icon: "fab fa-github"
-      - url: https://instagram.com
-        icon: "fab fa-instagram"
+      #- url: https://instagram.com
+      #  icon: "fab fa-instagram"
 en-US:
   <<: *DEFAULT_EN
 en-CA:
