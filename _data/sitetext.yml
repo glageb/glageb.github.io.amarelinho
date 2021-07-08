@@ -23,13 +23,16 @@ en: &DEFAULT_EN
     list:
       - title: "Computer Scientist"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fas fa-laptop #find more at https://fontawesome.com/icons
       - title: "Leadership in Software Industry"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
+        icon: far fa-rocket
       - title: "New Work Methods"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+        desc: "Experience in applying methods of progressing organizations to help change the way we work."
+        icon: fas fa-magic
+      - title: "Writer"
+        desc: "Published and translated books."
+        icon: fas fa-pen
 
   portfolio:
     title: "Portfolio"
