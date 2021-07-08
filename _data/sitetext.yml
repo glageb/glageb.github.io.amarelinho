@@ -16,10 +16,10 @@ en: &DEFAULT_EN
     #button: Tell Me More
     #buttonlink: "#highlights"
 
-  highlights:
+  services:
     title: "Three Highlights"
     text: "This is where I strive and what I love"
-    section: highlights
+    section: services
     list:
       - title: "Computer Scientist"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
