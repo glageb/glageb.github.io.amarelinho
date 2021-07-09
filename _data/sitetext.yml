@@ -85,7 +85,7 @@ en: &DEFAULT_EN
 
   clients:
     section: clients
-    title: "Companies I Worked"
+    #title: "Companies I Worked"
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
@@ -95,6 +95,9 @@ en: &DEFAULT_EN
       - title: "Actia Group"
         url: https://www.actia.com
         logo: assets/img/clients/actia.png
+      - title: "Nology Games"
+        url: https://sites.google.com/site/nologygames
+        logo: assets/img/clients/nology.png
   #    - title: "designmodo"
   #      url: https://github.com/raviriley/agency-jekyll-theme
   #      logo: assets/img/clients/designmodo.jpg
