@@ -92,6 +92,12 @@ en: &DEFAULT_EN
       - title: "SAP"
         url: https://www.sap.com
         logo: assets/img/clients/sap.png
+      - title: "Cengage Learning"
+        url: https://www.cengage.com
+        logo: assets/img/clients/cengage.png
+      - title: "SAB Miller"
+        url: https://www.sabmiller.com
+        logo: assets/img/clients/sabmiller.png
       - title: "Actia Group"
         url: https://www.actia.com
         logo: assets/img/clients/actia.png
