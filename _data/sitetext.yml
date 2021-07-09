@@ -85,11 +85,11 @@ en: &DEFAULT_EN
 
   clients:
     section: clients
-    max-height: 0px #100px
+    max-height: 100px
     horizontal-scrolling: "" #"yes/no"
-  #  list:
-  #    - title: "envato"
-  #      url: https://github.com/raviriley/agency-jekyll-theme
+    list:
+      - title: "envato"
+        url: https://github.com/raviriley/agency-jekyll-theme
   #      logo: assets/img/clients/envato.jpg
   #    - title: "designmodo"
   #      url: https://github.com/raviriley/agency-jekyll-theme
