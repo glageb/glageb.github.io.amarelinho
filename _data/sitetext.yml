@@ -86,33 +86,25 @@ en: &DEFAULT_EN
   clients:
     section: clients
     text: "Companies I Worked"
-    max-height: 100px
+    title: "Companies I Worked"
+    max-height: 80px
     horizontal-scrolling: "" #"yes/no"
     list:
       - title: "SAP"
         url: https://www.sap.com
         logo: assets/img/clients/sap.png
-      - title: "Cengage Learning"
-        url: https://www.cengage.com
-        logo: assets/img/clients/cengage.png
-      - title: "SAB Miller"
-        url: https://www.sabmiller.com
-        logo: assets/img/clients/sabmiller.png
+      #- title: "Cengage Learning"
+      #  url: https://www.cengage.com
+      #  logo: assets/img/clients/cengage.png
+      #- title: "SAB Miller"
+      #  url: https://www.sabmiller.com
+      #  logo: assets/img/clients/sabmiller.png
       - title: "Actia Group"
         url: https://www.actia.com
         logo: assets/img/clients/actia.png
       - title: "Nology Games"
         url: https://sites.google.com/site/nologygames
         logo: assets/img/clients/nology.png
-  #    - title: "designmodo"
-  #      url: https://github.com/raviriley/agency-jekyll-theme
-  #      logo: assets/img/clients/designmodo.jpg
-  #    - title: "themeforest"
-  #      url: https://github.com/raviriley/agency-jekyll-theme
-  #      logo: assets/img/clients/themeforest.jpg
-  #    - title: "Creative Market"
-  #      url: https://github.com/raviriley/agency-jekyll-theme
-  #      logo: assets/img/clients/creative-market.jpg
 
   team:
     title: "PUBLICATIONS"
@@ -138,12 +130,12 @@ en: &DEFAULT_EN
         social:
           - url: https://editoravoo.com.br/produto/reinventando-as-organizacoes
             icon: fas fa-book
-      - name: "How Sitting Next to You Affects my Feedback"
-        role: "My view on how to give feedback as a gift."
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://blogs.sap.com/2018/12/12/coachs-corner-how-sitting-next-to-you-affects-my-feedback
-            icon: far fa-comments
+      #- name: "How Sitting Next to You Affects my Feedback"
+      #  role: "My view on how to give feedback as a gift."
+      #  image: assets/img/team/500x500.jpg
+      #  social:
+      #    - url: https://blogs.sap.com/2018/12/12/coachs-corner-how-sitting-next-to-you-affects-my-feedback
+      #      icon: far fa-comments
 
   contact:
     title: "Contact Me"
