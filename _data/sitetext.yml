@@ -22,13 +22,13 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Computer Scientist"
-        desc: "20+ years of experience progressing from Consulting, Game Development, Embedded Systems and Enterprise Software Development."
+        desc: "22+ years of experience progressing from Consulting, Game Development, Embedded Systems and Enterprise Software Development. Hands-on experience in C/C++, Java and Objective C."
         icon: fas fa-laptop #find more at https://fontawesome.com/icons
       - title: "Leadership in IT"
-        desc: "10+ years leadership experience in Enterprise Software Development."
-        icon: far fa-rocket
+        desc: "12+ years leadership experience, passionate for developing people and conducting E2E projects."
+        icon: fas fa-seedling
       - title: "New Work Methods"
-        desc: "Experience in applying methods of progressing organizations to help change the way we work."
+        desc: "Experience in applying methods of progressive organizations to help change the way we work."
         icon: fas fa-magic
       #- title: "Writer"
       #  desc: "Published and translated books."
@@ -85,7 +85,7 @@ en: &DEFAULT_EN
 
   clients:
     section: clients
-    #title: "Companies I Worked"
+    text: "Companies I Worked"
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
