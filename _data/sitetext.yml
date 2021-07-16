@@ -83,28 +83,28 @@ en: &DEFAULT_EN
    # text: "our story"
    # section: about
 
-  clients:
-    section: clients
-    text: "Companies I Worked"
-    title: "Companies I Worked"
-    max-height: 80px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "SAP"
-        url: https://www.sap.com
-        logo: assets/img/clients/sap.png
+  #clients:
+  #  section: clients
+  #  text: "Companies I Worked"
+  #  title: "Companies I Worked"
+  #  max-height: 80px
+  #  horizontal-scrolling: "" #"yes/no"
+  #  list:
+  #    - title: "SAP"
+  #      url: https://www.sap.com
+  #      logo: assets/img/clients/sap.png
       #- title: "Cengage Learning"
       #  url: https://www.cengage.com
       #  logo: assets/img/clients/cengage.png
       #- title: "SAB Miller"
       #  url: https://www.sabmiller.com
       #  logo: assets/img/clients/sabmiller.png
-      - title: "Actia Group"
-        url: https://www.actia.com
-        logo: assets/img/clients/actia.png
-      - title: "Nology Games"
-        url: https://sites.google.com/site/nologygames
-        logo: assets/img/clients/nology.png
+    #  - title: "Actia Group"
+    #    url: https://www.actia.com
+    #    logo: assets/img/clients/actia.png
+    #  - title: "Nology Games"
+    #    url: https://sites.google.com/site/nologygames
+    #    logo: assets/img/clients/nology.png
 
   team:
     title: "PUBLICATIONS"
